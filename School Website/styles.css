@@ -1,0 +1,11 @@
+.custom-image-size{
+    height: 500px;
+}
+
+.images{
+    height: 8rem;
+    width: 8rem;
+}
+.nagative-images{
+    margin-top: -25px;
+}
